@@ -2,7 +2,7 @@
   "name": "hotel-booking-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://amanmani893.github.io/hotel-booking-app"
+  "homepage": "https://amanmani893.github.io/hotel-booking-app",
   "type": "module",
   "scripts": {
   "predeploy": "npm run build",
